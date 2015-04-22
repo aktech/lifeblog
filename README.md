@@ -1,7 +1,12 @@
 # lifeblog
-*My articles on Life, Karma, etc that may or may not interest you.*
+***My articles on Life, Karma, etc that may or may not interest you.***
 
 # License to Read
-TODO
+This repository is free to:
+* Read
+* Distribute or 
+* Apply in life, the good things gained (or not) from the articles.
 
-&copy; Amit Kumar 2011-2015
+Feel free to criticize publically or privately at dtu[dot]amit@gmail.com
+
+&copy; **Amit Kumar 2011-2015**
