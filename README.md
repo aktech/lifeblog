@@ -1,5 +1,5 @@
 # lifeblog
-***My articles on Life, Karma, etc that may or may not interest you.***
+My articles on Life, Karma, etc that may or may not interest you.
 
 # License to Read
 This repository is free to:
