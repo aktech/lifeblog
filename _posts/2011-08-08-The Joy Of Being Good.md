@@ -1,0 +1,20 @@
+---
+layout:     post
+title:      The Joy Of Being Good
+date:       2011-08-08
+summary:    What it takes to become bad? Simply nothing, but it takes a lot of character and goodness to become good.
+---
+
+What it takes to become bad? Simply nothing, but it takes a lot of character and goodness to become good. The Joy of being good is equally larger as the pain of being bad, but still most of us trudge the second path. 
+
+> Why? 
+
+It is due to the myopia of short term gain, the second path appears to be the bed of roses to many of us. That’s off course an illusion by which we are allured and get easily trapped into the bait.
+
+Though the second path promises short term pleasures and quick fixes, but it can never guarantee you the lifetime pleasure. By choosing the second path we may be overwhelmed by its initial offerings but we have to pay the price for it in future. Hence the second path which appears to be the easier one is actually the tougher one!
+
+Conversely the first path may not promise for the short term pleasures but guarantees you sure shot high on self esteem, confidence and also the Peace of the soul. Then why not choose the first path than to become the slave of our own deeds in the second path? Change is always undesirable and human being particularly tends to resist change. Though getting on to the first path is not too difficult, but it’s a matter of will and determination to get on the right track. It’s rightly said in bhagwad gita:
+
+> “Chanchala hi mana, abhyase hi vasham”
+
+It means mind is easily enchanted by the lure of the negative, but can be controlled by Practice. One has to change the default programming of his mind to explore the Joy of being Good. Tough, but not the toughest! And hence the Joy is extremely larger!
