@@ -7,7 +7,7 @@ baseurl:     "/lifeblog"
 url:         "http://iamit.in/lifeblog"
 
 # Google analytics
-google_analytics:
+google_analytics: true
 
 # Optional features
 animated:           true
