@@ -3,8 +3,8 @@ title:       Lifeblog
 email:       dtu.amit@gmail.com
 author:      Amit Kumar
 description: "Lifeblog by Programmer"
-baseurl:     ""
-url:         "http://iamit.in/lifeblog"
+baseurl:     "/lifeblog"
+url:         "http://iamit.in"
 
 # Google analytics
 google_analytics:
