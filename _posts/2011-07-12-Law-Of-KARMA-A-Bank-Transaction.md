@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Law Of KARMA &#58; A Bank Transaction
+title:      Law of Karma &#58; A Bank Transaction
 date:       2011-07-12
 summary:    What is “Karma”? There are infinite answers to this question by infinite philosophies but what the Karma actually is? Karma is the ultimate law of nature whose mechanism is very much similar to that of bank transaction.
 ---
