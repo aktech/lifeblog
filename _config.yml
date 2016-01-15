@@ -4,7 +4,7 @@ email:       dtu.amit@gmail.com
 author:      Amit Kumar
 description: "Lifeblog by Programmer"
 baseurl:     "/lifeblog"
-url:         "http://iamit.in"
+url:         "http://iamit.in/lifeblog"
 
 # Google analytics
 google_analytics:
