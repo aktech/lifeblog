@@ -9,4 +9,4 @@ This repository is free to:
 
 Feel free to criticize publically or privately at dtu[dot]amit@gmail.com
 
-&copy; **Amit Kumar 2011-2015**
+&copy; **Amit Kumar 2011-2016**
